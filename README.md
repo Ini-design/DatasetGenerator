@@ -1,3 +1,11 @@
+
+metadata
+license: mit
+title: 'DatasetGenerator '
+sdk: gradio
+emoji: 🚀
+colorFrom: red
+colorTo: gray
 Synthetic Dataset Generator
 A GenAI pipeline that automatically creates QA datasets from documents using LLMs.
 
